@@ -1,6 +1,2 @@
-<a href="https://github.com/devxb/gitanimals"><img
-  src="https://render.gitanimals.org/farms/Ich-bin-haeun"
-  width="600"
-  height="300"
-/>
-</a>
+
+[![gitanimals](https://render.gitanimals.org/farms/Ich-bin-haeun?v=1)](https://github.com/devxb/gitanimals)
